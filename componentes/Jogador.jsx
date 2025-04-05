@@ -46,7 +46,7 @@ const Jogador = ({ nome, numero, imagem }) => {
 };
 
 const styles = StyleSheet.create({
-  // Estilos anteriores permanecem os mesmos...
+
   card: {
     marginBottom: 8,
     backgroundColor: '#f8f9fa',
@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: '#6c757d',
   },
-  // Novos estilos para o modal
+
   modalContainer: {
     flex: 1,
     justifyContent: 'center',
